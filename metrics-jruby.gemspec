@@ -13,6 +13,5 @@ Gem::Specification.new do |s|
   s.email       = 'rainer.jung@gmail.com'
   s.files       = `git ls-files`.split("\n")
   s.test_files  = `git ls-files -- {test}/*`.split("\n")
-  s.add_development_dependency 'minitest', '~> 4.7.5'
   s.homepage    = 'https://rynr.github.io/metrics-jruby/'
 end

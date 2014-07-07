@@ -1,4 +1,3 @@
-require 'minitest/autorun'
 require 'test/unit'
 require 'metrics_jruby'
 
