@@ -11,5 +11,4 @@ Now you can access `Java::com.codahale.metrics.MetricRegistry` or
 More documentation and examples will follow (hopefully).
 
 [![Build Status](https://travis-ci.org/rynr/metrics-jruby.svg?branch=master)](https://travis-ci.org/rynr/metrics-jruby)  
-[![Code Climate](https://codeclimate.com/github/rynr/metrics-jruby/badges/gpa.svg)](https://codeclimate.com/github/rynr/metrics-jruby)  
-[![Test Coverage](https://codeclimate.com/github/rynr/metrics-jruby/badges/coverage.svg)](https://codeclimate.com/github/rynr/metrics-jruby)
+[![Code Climate](https://codeclimate.com/github/rynr/metrics-jruby/badges/gpa.svg)](https://codeclimate.com/github/rynr/metrics-jruby)
