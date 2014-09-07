@@ -13,8 +13,8 @@ desc "Run tests"
 task :default => :test
 
 namespace :metrics do
-  METADATA_URL = 'http://central.maven.org/maven2/com/codahale/metrics/metrics-core/maven-metadata.xml'
-  JAR_URL = 'http://central.maven.org/maven2/com/codahale/metrics/metrics-core/%{version}/metrics-core-%{version}.jar'
+  METADATA_URL = 'http://central.maven.org/maven2/io/dropwizard/metrics/metrics-core/maven-metadata.xml'
+  JAR_URL = 'http://central.maven.org/maven2/io/dropwizard/metrics/metrics-core/%{version}/metrics-core-%{version}.jar'
   VERSION_XPATH = '//metadata/versioning/release'
 
   desc 'Fetch newest metrics jars'
