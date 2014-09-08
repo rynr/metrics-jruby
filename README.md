@@ -14,3 +14,8 @@ More information on metrics, see http://metrics.dropwizard.io/.
 
 [![Build Status](https://travis-ci.org/rynr/metrics-jruby.svg?branch=master)](https://travis-ci.org/rynr/metrics-jruby)  
 [![Code Climate](https://codeclimate.com/github/rynr/metrics-jruby/badges/gpa.svg)](https://codeclimate.com/github/rynr/metrics-jruby)
+
+Move forward
+============
+
+If you need other packages than the core, and have a idea how to add those, please contact [me](mailto:rainer.jung@gmail.com) or create a [issue](https://github.com/rynr/metrics-jruby/issues).
