@@ -18,4 +18,4 @@ More information on metrics, see http://metrics.dropwizard.io/.
 Move forward
 ============
 
-If you need other packages than the core, and have a idea how to add those, please contact [me](mailto:rainer.jung@gmail.com) or create a [issue](https://github.com/rynr/metrics-jruby/issues).
+If you need other packages than the core, and have a idea how to add those, please contact me via [mail](mailto:rainer.jung@gmail.com), [gitter](https://gitter.im/rynr/metrics-jruby) or create a [issue](https://github.com/rynr/metrics-jruby/issues).
