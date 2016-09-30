@@ -1,6 +1,8 @@
 metrics-jruby
 =============
 
+[![Join the chat at https://gitter.im/rynr/metrics-jruby](https://badges.gitter.im/rynr/metrics-jruby.svg)](https://gitter.im/rynr/metrics-jruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a wrapper to use the great java-library `metrics` with `jruby`.
 
 To use, just add `gem 'metrics-jruby'` to your `Gemfile` and `require
