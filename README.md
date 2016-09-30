@@ -13,7 +13,6 @@ More documentation and examples will follow (hopefully).
 More information on metrics, see http://metrics.dropwizard.io/.
 
 [![Build Status](https://travis-ci.org/rynr/metrics-jruby.svg?branch=master)](https://travis-ci.org/rynr/metrics-jruby)  
-[![Code Climate](https://codeclimate.com/github/rynr/metrics-jruby/badges/gpa.svg)](https://codeclimate.com/github/rynr/metrics-jruby)
 
 Move forward
 ============
