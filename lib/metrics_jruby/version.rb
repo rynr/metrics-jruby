@@ -1,6 +1,6 @@
 module MetricsJruby
   module Version
-    JAVA_VERSION = '3.1.2'
+    JAVA_VERSION = '3.2.1'
     GEM_VERSION = '3'
 
     def self.version
